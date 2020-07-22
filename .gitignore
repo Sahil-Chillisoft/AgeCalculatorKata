@@ -3,3 +3,7 @@
 ################################################################################
 
 /AgeCalculatorKata/.vs/AgeCalculatorKata
+/AgeCalculatorKata/AgeCalculator/obj
+/AgeCalculatorKata/AgeCalculator/bin/Debug/netcoreapp3.1
+/AgeCalculatorKata/AgeCalculator.Tests/obj
+/AgeCalculatorKata/AgeCalculator.Tests/bin/Debug/netcoreapp3.1
